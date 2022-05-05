@@ -11,7 +11,7 @@ Raymond Chau, Hayley Win, Tuflikha Putri and Anita Rynkanen
 
 **Project Description:**
 
-Aim of this project was to build a web application that predicts possible occurence of lung cancer using a machine learning model.
+Aim of this project was to build a web application that predicts possible occurrence of lung cancer using a machine learning model.
 
 **Development process:**
 
